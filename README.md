@@ -2,7 +2,7 @@
 
 This project is a great reference on how to structure a NextJS application, how to go about implementing a NextJS project with Cursor AI, and prompts that help us create and define features quickly. 
 
-`This can be used as a template for other projects`. 
+`This can be used as a template for other projects. For best use, check the latest prompts created in the prompts/ dir. That is where prompts use the final notepad instructions`. 
 
 
 ## Getting Started
