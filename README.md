@@ -1,4 +1,9 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Project
+
+This project is a great reference on how to structure a NextJS application, how to go about implementing a NextJS project with Cursor AI, and prompts that help us create and define features quickly. 
+
+`This can be used as a template for other projects`. 
+
 
 ## Getting Started
 
